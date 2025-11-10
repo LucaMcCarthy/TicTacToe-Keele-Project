@@ -16,7 +16,7 @@ For a full explanation of the project, code structure and included screenshots, 
 ## Skills Demonstrated
 Java, OOP, GUI Design, Event-Driven Programming, Software Testing, JUnit
 
-##How To Play
+## How To Play
 1. Clone the repository
 2. Open in your Java IDE
 3. Run Main.java
@@ -26,5 +26,5 @@ Java, OOP, GUI Design, Event-Driven Programming, Software Testing, JUnit
      * Enter 2 for Console
 4. Enjoy Tic-Tac-Toe!
 
-##Requirements
+## Requirements
 JUnit 4.13.2 - only if you want to run TicTacToeTest.java
