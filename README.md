@@ -5,7 +5,7 @@ Java TicTacToe game with console and GUI functionality. Completed as a project i
 This is a Java-based Tic-Tac-Toe game developed as a second-term project at Keele University.
 The project includes a GUI and a console version, demonstrating object-oriented programming, event driven design and software testing skills via JUnit. 
 
-For a full explanation of the project, code structure and included screenshots, see the [Project Report](TicTacToe-Keele-Project/TicTacToeReport.pdf)
+For a full explanation of the project, code structure and included screenshots, see the [Project Report](report/TicTacToeReport.pdf)
 
 ## Features
 - Interactive GUI with color-coded win/draw indicators
